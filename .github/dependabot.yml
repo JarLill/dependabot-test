@@ -23,4 +23,5 @@ updates:
       - dependency-name: "spring-boot-dependencies"
         # We don't want to go to 3.4.X yet, remaining on 3.3.X instead
         versions: [ "3.4.x" ]
-
+    reviewers:
+      - "JarLill"
