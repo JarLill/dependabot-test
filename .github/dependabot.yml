@@ -13,8 +13,14 @@ updates:
       interval: "daily"
     commit-message:
       prefix: "chore(deps): "
+    # Groups - determine which version changes to group into each PR.
+    # Default is 1 PR per version change
     groups:
       all:
         patterns:
           - "*"
+    ignore:
+      - dependency-name: "spring-boot-dependencies:
+        # We don't want to go to 3.4.X yet, remaining on 3.3.X instead
+        versions: [ "3.4.x" ]
 
