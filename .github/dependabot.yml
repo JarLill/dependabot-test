@@ -23,8 +23,9 @@ updates:
         patterns:
           - "*"
     ignore:
-      - dependency-name: "org.springframework.boot:spring-boot-dependencies"
+      - dependency-name: "*:spring-boot-dependencies"
         # We don't want to go to 3.4.X yet, remaining on 3.3.X instead
-        versions: [ "3.4.x" ]
+        versions:
+          - ">= 3.4.0"
     reviewers:
       - "JarLill"
