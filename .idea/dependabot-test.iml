@@ -36,11 +36,8 @@
     <orderEntry type="library" name="Maven: org.apache.tomcat.embed:tomcat-embed-websocket:10.1.33" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-web:6.1.15" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-beans:6.1.15" level="project" />
-    <orderEntry type="library" name="Maven: io.micrometer:micrometer-observation:1.13.8" level="project" />
-    <orderEntry type="library" name="Maven: io.micrometer:micrometer-commons:1.13.8" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-webmvc:6.1.15" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-aop:6.1.15" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework:spring-context:6.1.15" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-expression:6.1.15" level="project" />
     <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:2.0.16" level="project" />
     <orderEntry type="library" name="Maven: ch.qos.logback:logback-classic:1.5.12" level="project" />
@@ -59,5 +56,17 @@
     <orderEntry type="library" name="Maven: io.cucumber:html-formatter:13.0.0" level="project" />
     <orderEntry type="library" name="Maven: io.cucumber:create-meta:4.0.0" level="project" />
     <orderEntry type="library" name="Maven: org.apiguardian:apiguardian-api:1.1.2" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.kafka:spring-kafka:3.0.17" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-context:6.1.15" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-messaging:6.1.15" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-tx:6.1.15" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.retry:spring-retry:2.0.10" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.kafka:kafka-clients:3.7.1" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: com.github.luben:zstd-jni:1.5.6-3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.lz4:lz4-java:1.8.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.xerial.snappy:snappy-java:1.1.10.5" level="project" />
+    <orderEntry type="library" name="Maven: io.micrometer:micrometer-observation:1.13.8" level="project" />
+    <orderEntry type="library" name="Maven: io.micrometer:micrometer-commons:1.13.8" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: com.google.code.findbugs:jsr305:3.0.2" level="project" />
   </component>
 </module>
