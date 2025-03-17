@@ -46,5 +46,18 @@
     <orderEntry type="library" name="Maven: ch.qos.logback:logback-classic:1.5.12" level="project" />
     <orderEntry type="library" name="Maven: ch.qos.logback:logback-core:1.5.12" level="project" />
     <orderEntry type="library" name="Maven: org.projectlombok:lombok:1.18.36" level="project" />
+    <orderEntry type="library" name="Maven: io.cucumber:cucumber-java:6.11.0" level="project" />
+    <orderEntry type="library" name="Maven: io.cucumber:cucumber-core:6.11.0" level="project" />
+    <orderEntry type="library" name="Maven: io.cucumber:cucumber-gherkin:6.11.0" level="project" />
+    <orderEntry type="library" name="Maven: io.cucumber:cucumber-gherkin-messages:6.11.0" level="project" />
+    <orderEntry type="library" name="Maven: io.cucumber:messages:15.0.0" level="project" />
+    <orderEntry type="library" name="Maven: io.cucumber:tag-expressions:3.0.1" level="project" />
+    <orderEntry type="library" name="Maven: io.cucumber:cucumber-expressions:10.3.0" level="project" />
+    <orderEntry type="library" name="Maven: io.cucumber:datatable:3.5.0" level="project" />
+    <orderEntry type="library" name="Maven: io.cucumber:cucumber-plugin:6.11.0" level="project" />
+    <orderEntry type="library" name="Maven: io.cucumber:docstring:6.11.0" level="project" />
+    <orderEntry type="library" name="Maven: io.cucumber:html-formatter:13.0.0" level="project" />
+    <orderEntry type="library" name="Maven: io.cucumber:create-meta:4.0.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apiguardian:apiguardian-api:1.1.2" level="project" />
   </component>
 </module>
