@@ -1,8 +1,8 @@
-name: Nightly Pre-Release
+name: Interval Build
 
 on:
   schedule:
-    - cron: '* * * * *'
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
